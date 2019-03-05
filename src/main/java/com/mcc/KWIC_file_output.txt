@@ -1,0 +1,8 @@
+1 ACM 1972 criteria.pdf --Path:/home/dessis-aux23/Documentos/maestria/ARSO
+3 Presentacion Decomposition-macklem.pdf --Path:/home/dessis-aux23/Documentos/maestria/ARSO
+Unidad 1 Introducción a la AS.ppt --Path:/home/dessis-aux23/Documentos/maestria/ARSO
+Unidad 1 Introducción a la AS.ppt --Path:/home/dessis-aux23/Documentos/maestria/ARSO/ejemplo
+Unidad 2 Arquitectura de Software orientada a los QA.ppt --Path:/home/dessis-aux23/Documentos/maestria/ARSO
+Unidad 3 Diseño basado en la funcionalidad.ppt --Path:/home/dessis-aux23/Documentos/maestria/ARSO
+Unidad 4 Evaluacion de arquitectura de software.ppt --Path:/home/dessis-aux23/Documentos/maestria/ARSO
+Unidad 5 Transformación de Arquitecturas.ppt --Path:/home/dessis-aux23/Documentos/maestria/ARSO

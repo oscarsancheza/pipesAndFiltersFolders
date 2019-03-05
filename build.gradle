@@ -1,0 +1,16 @@
+plugins {
+    id 'java'
+}
+
+group = 'com.mcc'
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = '1.8'
+
+repositories {
+    maven { url 'https://jitpack.io' }
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'com.github.oscarsancheza:pipesAndFilters:v1.2'
+}
